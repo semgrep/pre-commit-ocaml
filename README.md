@@ -9,7 +9,7 @@ manage this script with the help of a [third-party tool called `pre-commit`](htt
 It makes it easy to combine multiple checks and fixes for various
 programming languages.
 
-This repo provides hooks that useful with OCaml code bases.
+This repo provides hooks that are useful with OCaml code.
 
 Hooks available
 --
