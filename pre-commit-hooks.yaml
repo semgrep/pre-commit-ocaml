@@ -1,0 +1,8 @@
+---
+- id: ocp-indent
+  name: ocp-indent
+  description: Re-indent OCaml code
+  entry: ocp-indent
+  language: system
+  files: "\\.mli?$"
+  args: ["-i"]
