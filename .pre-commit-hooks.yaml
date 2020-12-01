@@ -1,4 +1,3 @@
----
 - id: ocp-indent
   name: ocp-indent
   description: Re-indent OCaml code
